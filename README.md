@@ -7,10 +7,10 @@
     - **SantaCraft** (2019 - 2020) - Discord Leader and Developer;
     - **Aurora** (2020) - Owner and Developer;
 * **Projects:**
-    - [**VK-Spotify-Interation**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
+    - [**VK-Spotify-Integration**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
     - **Sinister** - Private **(I hope temporarily)** Discord bot with economy, moderation and other stuff;
 
-# ⌨ My Skills :
+# ⌨ My Skills
 <p align="center">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=222222" />
@@ -20,7 +20,7 @@
     <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=Heroku&logoColor=white" />
 </p>
 
-# 🛠 My Tools :
+# 🛠 My Tools
 <p align="center">
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual-Studio-Code&logoColor=white" />
     <img alt="ESLint" src="https://img.shields.io/badge/ESLint-4B32C3?&style=for-the-badge&logo=ESLint&logoColor=white" />
@@ -28,7 +28,14 @@
     <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?&style=for-the-badge&logo=Adobe-Photoshop&logoColor=white" />
 </p>
 
-# 📊 My Stats :
+# ✉ My contacts
+<p align= "center">
+    <a href="https://discord.bio/p/yokkkoso"> <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?&style=for-the-badge&logo=Discord&logoColor=white" /> </a>
+    <a href="https://t.me/yokkkoso"> <img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?&style=for-the-badge&logo=Telegram&logoColor=white" /> </a>
+    <a href="mailto:yokko.jke@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /> </a>
+</p>
+
+# 📊 My Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yokkkoso&show_icons=true&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yokkkoso&theme=dark" />
@@ -36,5 +43,5 @@
 
 # 🥰 Just some cuteness =d
 <p align="center">
-<img src="./.resources/source.gif" style="border-radius: 50px">
+    <img src="./.resources/source.gif">
 </p>
