@@ -1,3 +1,15 @@
+# 👋 About me
+
+* **Name:** Alexey
+* **Gender:** ~~Dead Inside~~ Male
+* **Hobbies:** Play games and sometime make simple AMV for myself =d
+* **Work Experience:**
+    - **SantaCraft** (2019 - 2020) - Discord Leader and Developer;
+    - **Aurora** (2020) - Owner and Developer;
+* **Projects:**
+    - [**VK-Spotify-Interation**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
+    - **Sinister** - Private **(I hope temporarily)** Discord bot with economy, moderation and other stuff;
+
 # ⌨ My Skills :
 <p align="center">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white" />
@@ -20,4 +32,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=yokkkoso&show_icons=true&theme=dark" />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yokkkoso&theme=dark" />
+</p>
+
+# 🥰 Just some cuteness =d
+<p align="center">
+<img src="./.resources/source.gif" style="border-radius: 50px">
 </p>
