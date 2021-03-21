@@ -37,8 +37,8 @@
 
 # 📊 My Stats
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=yokkkoso&show_icons=true&theme=dark" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yokkkoso&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=yokkkoso&show_icons=true&theme=omni" />
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yokkkoso&theme=omni" />
 </p>
 
 # 🥰 Just some cuteness =d
