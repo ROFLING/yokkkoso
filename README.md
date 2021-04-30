@@ -6,9 +6,11 @@
 * **Work Experience:**
     - **SantaCraft** (2019 - 2020) - Discord Leader and Developer;
     - **Aurora** (2020) - Owner and Developer;
-    - **GREMORY** (2021 - PRESENT) - Administartor and Developer;
+    - [**GREMORY**](https://discord.gg/5RVtEYExQb) (2021 - PRESENT) - Administartor and Developer;
 * **Projects:**
     - [**VK-Spotify-Integration**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
+    - [**VOID**](https://void.cf) - Portal for developers who are part of the [VOID](https://github.com/devsofvoid) team;
+    - Many private Discord bots (Economy, Voice Online, Clans, Moderation and etc)
    
 # ⌨ My Skills
 <p align="center">
