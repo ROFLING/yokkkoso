@@ -5,8 +5,8 @@
 * **Hobbies:** Play games and sometime make simple AMV for myself =d
 * **Work Experience:**
     - **SantaCraft** (2019 - 2020) - Discord Leader and Developer;
-    - **Aurora** (2020) - Owner and Developer;
-    - [**GREMORY**](https://discord.gg/5RVtEYExQb) (2021 - PRESENT) - Administartor and Developer;
+    - **Aurora** (2020) - Founder and Developer;
+    - [**GREMORY**](https://discord.gg/5RVtEYExQb) (2021 - PRESENT) - Administrator and Developer;
     - [**Glow**](https://discord.gg/XeTjtPcQ7a) (2021 - PRESENT) - Developer;
 * **Projects:**
     - [**VK-Spotify-Integration**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
