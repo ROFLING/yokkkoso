@@ -4,10 +4,11 @@
 * **Gender:** ~~Dead Inside~~ Male
 * **Hobbies:** Play games and sometime make simple AMV for myself =d
 * **Work Experience:**
-    - **SantaCraft** (2019 - 2020) - Discord Leader and Developer;
-    - **Aurora** (2020) - Founder and Developer;
-    - [**GREMORY**](https://discord.gg/5RVtEYExQb) (2021 - PRESENT) - Administrator and Developer;
-    - [**Glow**](https://discord.gg/XeTjtPcQ7a) (2021 - PRESENT) - Developer;
+    - **SantaCraft** (2019 - 2020) — Discord Leader and Developer;
+    - **Aurora** (2020) — Founder and Developer;
+    - [**GREMORY**](https://discord.gg/5RVtEYExQb) (2021 - PRESENT) — Administrator and Developer;
+    - [**Hoteru**](https://discord.gg/XeTjtPcQ7a) (2021 - PRESENT) — Developer;
+    - [**Ethereal**](https://discord.gg/ufo) (2021 - PRESENT) — Developer;
 * **Projects:**
     - [**VK-Spotify-Integration**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
     - [**VOID**](https://void.cf) - Portal for developers who are part of the [VOID](https://github.com/devsofvoid) team;
