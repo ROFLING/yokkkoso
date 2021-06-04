@@ -9,6 +9,7 @@
     - **Ethereal** (2021) — Developer;
     - [**GREMORY**](https://discord.gg/5RVtEYExQb) (2021 - PRESENT) — Administrator and Developer;
     - [**Hoteru**](https://discord.gg/XeTjtPcQ7a) (2021 - PRESENT) — Developer;
+    - [**Lounge**](https://discord.gg/AZVrCyXZHf) (2021 - PRESENT) — Developer;
 * **Projects:**
     - [**VK-Spotify-Integration**](https://github.com/yokkkoso/VK-Spotify-Integration) - Spotify integration to Russian social network VKontakte;
     - [**VOID**](https://void.cf) - Portal for developers who are part of the [VOID](https://github.com/devsofvoid) team;
